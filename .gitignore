@@ -1,4 +1,5 @@
 **/*.log
 **/*checkpoints
 **/*images
+__pycache__
 p1_navigation/Banana_Linux
