@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: p1_navigation/zs_banana.gif "Trained Agent"
+[image1]: zs_banana.gif "Trained Agent"
 
 # Project 1: Navigation
 
